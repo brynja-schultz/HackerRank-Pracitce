@@ -4,7 +4,7 @@ Language: SQL
 
 ## Overview
 
-This repository contains my solutions to HackerRank SQL challenges. The problems focus on developing proficiency with SQL syntax, query formulation, and database concepts. This is part of my ongoing practice to strengthen data querying and relational database skills.
+This folder contains my solutions to HackerRank SQL challenges. The problems focus on developing proficiency with SQL syntax, query formulation, and database concepts. This is part of my ongoing practice to strengthen data querying and relational database skills.
 
 ## Current Focus
 
